@@ -14,7 +14,7 @@ datos correctamente y que el segundo día es posterior al primero.
   2.Proceso: 
     -Diferencia de hora del dia posterior menos el dia anterior
   3.Salida:
-    ~~~
+  ~~~
     ---------------------------------------------------------------
     |     DIFERENCIA DE HORAS ENTRE DOS LAPSOS DE TIEMPO          |
     +-------------------------------------------------------------+
