@@ -27,6 +27,6 @@ datos correctamente y que el segundo día es posterior al primero.
   ~~~
   
   ## Etapa 3. Diseño de la solución 
-      Diagrama de la clase
+   Diagrama de la clase
       ![](https://github.com/ElvizClaudette/T3A2----Ejercicio-02/blob/main/T3A2.png)
       
