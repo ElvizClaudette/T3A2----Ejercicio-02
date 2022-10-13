@@ -7,13 +7,16 @@ No se tendrán en cuenta los minutos ni los segundos. El día de la semana se pu
 datos correctamente y que el segundo día es posterior al primero.
 
 ## Etapa 2. Especificaciones
-  1. Entrada:
+ 1. Entrada:
     -Variables String: diaInicio, diaFinal
     -Variable int: horaInicio, horaFinal
-     -opcional(datosdelusuario)
-  2.Proceso: 
+    -Opcional(datosdelusuario)
+    
+ 2.Proceso: 
     -Diferencia de hora del dia posterior menos el dia anterior
+    
   3.Salida:
+  
   ~~~
     +-------------------------------------------------------------+
     |     DIFERENCIA DE HORAS ENTRE DOS LAPSOS DE TIEMPO          |
