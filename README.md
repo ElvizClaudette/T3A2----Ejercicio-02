@@ -15,11 +15,11 @@ datos correctamente y que el segundo día es posterior al primero.
     -Diferencia de hora del dia posterior menos el dia anterior
   3.Salida:
   ~~~
-    ---------------------------------------------------------------
+    +-------------------------------------------------------------+
     |     DIFERENCIA DE HORAS ENTRE DOS LAPSOS DE TIEMPO          |
     +-------------------------------------------------------------+
-    Dia Inicial: Martes                   Hora Inicial: 8:00  hrs
-    Dia Final: Jueves                     Hora fin:     10:00 hrs
+    | Dia Inicial: Martes                Hora Inicial: 8:00  hrs  |
+    | Dia Final: Jueves                  Hora fin:     10:00 hrs  |
     +-------------------------------------------------------------+
     |Han transcurrido # horas desde el dia martesal dia jueve en  |
     |las horas indicadas.                                         |
