@@ -26,4 +26,7 @@ datos correctamente y que el segundo día es posterior al primero.
     +-------------------------------------------------------------+
   ~~~
   
-  ## Etapa 3.
+  ## Etapa 3. Diseño de la solución 
+      Diagrama de la clase
+      ![]()
+      
