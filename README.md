@@ -8,14 +8,14 @@ datos correctamente y que el segundo día es posterior al primero.
 
 ## Etapa 2. Especificaciones
  1. Entrada:
-    -Variables String: diaInicio, diaFinal
-    -Variable int: horaInicio, horaFinal
-    -Opcional(datosdelusuario)
+    - Variables String: diaInicio, diaFinal
+    - Variable int: horaInicio, horaFinal
+    - Opcional(datosdelusuario)
     
- 2.Proceso: 
-    -Diferencia de hora del dia posterior menos el dia anterior
+ 2. Proceso: 
+    - Diferencia de hora del dia posterior menos el dia anterior
     
-  3.Salida:
+ 3. Salida:
   
   ~~~
     +-------------------------------------------------------------+
