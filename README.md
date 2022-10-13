@@ -24,4 +24,6 @@ datos correctamente y que el segundo día es posterior al primero.
     |Han transcurrido # horas desde el dia martesal dia jueve en  |
     |las horas indicadas.                                         |
     +-------------------------------------------------------------+
+  ~~~
   
+  ## Etapa 3.
